@@ -1,0 +1,190 @@
+[
+            {
+                "Name": {
+                    "first_name": "Karthik", 
+                    "last_name": "Ellur"
+                }, 
+                "contacts": {
+                    "mobile": "9666823006", 
+                    "Emails": {
+                        "primary": "karthikellur2020@gmail.com"
+                    }, 
+                    "Address": "5-1-9NetajiNagarRaichur584103KarnatakaIndia"
+                }, 
+                "dob": "03-09-1993", 
+                "cgpa": "8.41", 
+                "pre_requisites": {
+                    "courses": {
+                        "xml": "0", 
+                        "no_sql": "0", 
+                        "c_programming": "1", 
+                        "data_mining": "0", 
+                        "json": "0", 
+                        "OOP": "0", 
+                        "machine_learning": "0"
+                    }, 
+                    "tools": {
+                        "pycharm": "0", 
+                        "git_hub": "0", 
+                        "mongo_db": "0"
+                    }
+                }, 
+                "id": {
+                    "no": "445", 
+                    "ps_ts": "PS", 
+                    "branch2": "B5", 
+                    "branch1": "AA", 
+                    "year": "2011"
+                }
+            }, 
+            {
+                "Name": {
+                    "first_name": "Saieesh", 
+                    "last_name": "Pillalamarri", 
+                    "middle_name": "Venkata Phani Kapil"
+                }, 
+                "contacts": {
+                    "mobile": "7382323023", 
+                    "Emails": {
+                        "primary": "saieesh.3456@gmail.com"
+                    }, 
+                    "Address": "5-90-18/1ChandramouliNagarGuntur522007AndhraPradeshIndia"
+                }, 
+                "dob": "28-09-1994", 
+                "cgpa": "8.33", 
+                "pre_requisites": {
+                    "courses": {
+                        "xml": "1", 
+                        "no_sql": "1", 
+                        "c_programming": "1", 
+                        "data_mining": "1", 
+                        "json": "1", 
+                        "OOP": "1", 
+                        "machine_learning": "1"
+                    }, 
+                    "tools": {
+                        "pycharm": "1", 
+                        "git_hub": "0", 
+                        "mongo_db": "1"
+                    }
+                }, 
+                "id": {
+                    "no": "239", 
+                    "ps_ts": "PS", 
+                    "branch1": "A7", 
+                    "year": "2011"
+                }
+            }, 
+            {
+                "Name": {
+                    "first_name": "Rohit", 
+                    "last_name": "Tupili", 
+                    "middle_name": "Easwar Sai"
+                }, 
+                "contacts": {
+                    "mobile": "9866056717", 
+                    "Emails": {
+                        "primary": "tesrohit1994@gmail.com"
+                    }, 
+                    "Address": "HIG-261H.B.ColonyVijayawada520012AndhraPradeshIndia"
+                }, 
+                "dob": "08-06-1994", 
+                "cgpa": "8.66", 
+                "pre_requisites": {
+                    "courses": {
+                        "xml": "0", 
+                        "no_sql": "1", 
+                        "c_programming": "1", 
+                        "data_mining": "1", 
+                        "json": "0", 
+                        "OOP": "1", 
+                        "machine_learning": "0"
+                    }, 
+                    "tools": {
+                        "pycharm": "0", 
+                        "git_hub": "0", 
+                        "mongo_db": "0"
+                    }
+                }, 
+                "id": {
+                    "no": "114", 
+                    "ps_ts": "PS", 
+                    "branch1": "A7", 
+                    "year": "2011"
+                }
+            }, 
+            {
+                "Name": {
+                    "first_name": "Goudar", 
+                    "last_name": "Gourish"
+                }, 
+                "contacts": {
+                    "mobile": "9517532586", 
+                    "Emails": {
+                        "primary": "Gaorish@gmail.com"
+                    }, 
+                    "Address": "7/9-8-6BhagyaNagar ColonyAurangabad431001MaharastraIndia"
+                }, 
+                "dob": "05-09-1991", 
+                "cgpa": "8.9", 
+                "pre_requisites": {
+                    "courses": {
+                        "xml": "0", 
+                        "no_sql": "1", 
+                        "c_programming": "1", 
+                        "data_mining": "1", 
+                        "json": "0", 
+                        "OOP": "1", 
+                        "machine_learning": "0"
+                    }, 
+                    "tools": {
+                        "pycharm": "0", 
+                        "git_hub": "0", 
+                        "mongo_db": "0"
+                    }
+                }, 
+                "id": {
+                    "no": "023", 
+                    "ps_ts": "03", 
+                    "branch1": "H1", 
+                    "year": "2011"
+                }
+            }, 
+            {
+                "Name": {
+                    "first_name": "Anil", 
+                    "last_name": "Boda"
+                }, 
+                "contacts": {
+                    "mobile": "9866156717", 
+                    "Emails": {
+                        "primary": "anil.bphc@gmail.com"
+                    }, 
+                    "Address": "5-8-9TapeswaramKakinada533340AndhraPradeshIndia"
+                }, 
+                "dob": "31-12-1992", 
+                "cgpa": "8.5", 
+                "pre_requisites": {
+                    "courses": {
+                        "xml": "0", 
+                        "no_sql": "0", 
+                        "c_programming": "1", 
+                        "data_mining": "1", 
+                        "json": "0", 
+                        "OOP": "1", 
+                        "machine_learning": "0"
+                    }, 
+                    "tools": {
+                        "pycharm": "0", 
+                        "git_hub": "0", 
+                        "mongo_db": "0"
+                    }
+                }, 
+                "id": {
+                    "no": "541", 
+                    "ps_ts": "PS", 
+                    "branch1": "C6", 
+                    "year": "2011"
+                }
+            }
+        ]
